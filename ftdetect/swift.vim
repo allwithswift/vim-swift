@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.swift	set filetype=swift
+au BufRead,BufNewFile *.swift	set filetype=swift 
